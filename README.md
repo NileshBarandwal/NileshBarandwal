@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img align="right" src="https://komarev.com/ghpvc/?username=NileshBarandwal&color=blue&style=flat&label=PROFILE+VIEWS&abbreviated=true">
 <!--
 **NileshBarandwal/NileshBarandwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
