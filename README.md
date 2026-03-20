@@ -11,18 +11,6 @@ Blockchain · ML Systems · Security · Full-Stack
 
 ---
 
-```json
-{
-  "name"      : "Nilesh Barandwal",
-  "role"      : "M.Tech CSE @ IIT Dharwad",
-  "focus"     : ["Blockchain", "ML Systems", "Security", "Full-Stack"],
-  "currently" : "MTech thesis on secure ML inference",
-  "open_to"   : "Internships & full-time roles"
-}
-```
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
 
 ## ⚡ Tech stack
@@ -66,16 +54,6 @@ Blockchain · ML Systems · Security · Full-Stack
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NileshBarandwal&theme=github-compact&hide_border=true)](https://github.com/NileshBarandwal)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NileshBarandwal&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/NileshBarandwal)
 
 </div>
 
