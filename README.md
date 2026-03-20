@@ -1,15 +1,49 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=NileshBarandwal&color=blue&style=flat&label=PROFILE+VIEWS&abbreviated=true">
-<!--
-**NileshBarandwal/NileshBarandwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nilesh Barandwal
 
-Here are some ideas to get you started:
+Graduate student at IIT Dharwad. I build things across the full stack — currently focused on distributed systems, DeFi protocols, and ML inference pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Active Research
+
+**Thesis: Secure and Verifiable ML Inference**
+
+Working on end-to-end pipelines that guarantee privacy and tamper-resistance for ML model execution. Core areas: TEE (Trusted Execution Environment) for isolated inference, ZKP (Zero-Knowledge Proofs) for output verification, and post-quantum cryptographic defenses against adversarial attacks.
+
+*Not yet open-sourced. Available to discuss in interviews.*
+
+---
+
+## Shipped projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [AMM-DEX](https://github.com/NileshBarandwal/AMM-DEX) | Constant-product AMM (x·y=k) with LP tokens, 0.3% fee accrual, slippage protection, deployed on Sepolia testnet | Solidity, Hardhat, React, Ethers.js v6 |
+| [bolna-lead-qualifier](https://github.com/NileshBarandwal/bolna-lead-qualifier) | Outbound voice AI agent that qualifies sales leads over phone calls, with mock mode for local testing | Next.js 14, Express, SQLite, Bolna Voice AI |
+| [armatrix-team](https://github.com/NileshBarandwal/armatrix-team) | Team directory REST API with 17 pytest unit tests, deployed on Railway + Vercel | FastAPI, Next.js, TypeScript |
+| [Blockchain_Pow](https://github.com/NileshBarandwal/Blockchain_Pow) | Multi-node proof-of-work blockchain — nodes discover each other, mine concurrently, and converge on the longest chain | Python, Flask |
+| [Malware_Detection_Webapp](https://github.com/NileshBarandwal/Malware_Detection_Webapp) | Traces HTTP redirect chains hop by hop, scores for cross-domain hops, tracking cookies, and suspicious headers | Angular, Node.js, TypeScript |
+| [RabbitMQ_Chat](https://github.com/NileshBarandwal/RabbitMQ_Chat) | Two-user real-time chat over RabbitMQ pub-sub with Docker | Node.js, RabbitMQ, Docker |
+| [MTP_Backend](https://github.com/NileshBarandwal/MTP_Backend) | MNIST CNN served via FastAPI with MLflow experiment logging and YAML config | Python, FastAPI, MLflow |
+
+---
+
+## Technical areas
+
+```
+Languages      Python · TypeScript · JavaScript · Solidity · C++
+Backend        FastAPI · Express · Flask · NestJS · Django
+Frontend       React · Next.js · Angular · Vite
+Blockchain     Hardhat · Ethers.js · OpenZeppelin · Sepolia
+ML / MLOps     PyTorch · FastAPI · MLflow · YAML config
+Messaging      RabbitMQ · AMQP · Docker
+Databases      SQLite · MySQL · PostgreSQL · TypeORM
+```
+
+---
+
+## Contact
+
+Open to internship and full-time roles in backend engineering, DeFi/smart contracts, or ML infrastructure.
+
+[GitHub](https://github.com/NileshBarandwal) · [LinkedIn](https://linkedin.com/in/nileshbarandwal)
