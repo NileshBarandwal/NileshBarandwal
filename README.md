@@ -11,7 +11,21 @@ Blockchain · ML Systems · Security · Full-Stack
 
 ---
 
-## Tech stack
+```json
+{
+  "name"      : "Nilesh Barandwal",
+  "role"      : "M.Tech CSE @ IIT Dharwad",
+  "focus"     : ["Blockchain", "ML Systems", "Security", "Full-Stack"],
+  "currently" : "MTech thesis on secure ML inference",
+  "open_to"   : "Internships & full-time roles"
+}
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
+
+## ⚡ Tech stack
 
 **Languages**
 
@@ -34,7 +48,7 @@ Blockchain · ML Systems · Security · Full-Stack
 
 ---
 
-## GitHub stats
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -57,7 +71,17 @@ Blockchain · ML Systems · Security · Full-Stack
 
 ---
 
-## Shipped projects
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=NileshBarandwal&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/NileshBarandwal)
+
+</div>
+
+---
+
+## 🚀 Shipped projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
@@ -65,17 +89,29 @@ Blockchain · ML Systems · Security · Full-Stack
 | [bolna-lead-qualifier](https://github.com/NileshBarandwal/bolna-lead-qualifier) | Outbound voice AI agent that qualifies sales leads over phone calls, with mock mode for local testing | Next.js 14, Express, SQLite, Bolna Voice AI |
 | [SAMS – Student Attendance](https://github.com/NileshBarandwal/CS618_MiniProject_Django) | Attendance platform with barcode scanning, RBAC for students/teachers/admins, analytics dashboard, FastAPI backend | Django, FastAPI, MySQL, HTML/CSS/JS |
 | [armatrix-team](https://github.com/NileshBarandwal/armatrix-team) | Team directory REST API with 17 pytest unit tests, deployed on Railway + Vercel | FastAPI, Next.js, TypeScript |
+| [Solidity-BookMyHotel](https://github.com/NileshBarandwal/Solidity_BookMyHotel) | Hotel booking smart contract on Ethereum — deployed via Remix, integrated with MetaMask + Ganache | Solidity, Web3.js, HTML/CSS |
 | [Blockchain_Pow](https://github.com/NileshBarandwal/Blockchain_Pow) | Multi-node proof-of-work blockchain — nodes discover each other, mine concurrently, converge on longest chain | Python, Flask |
 | [Malware_Detection_Webapp](https://github.com/NileshBarandwal/Malware_Detection_Webapp) | Traces HTTP redirect chains hop by hop, scores for cross-domain hops, tracking cookies, suspicious headers | Angular, Node.js, TypeScript |
-| [MTP_Backend](https://github.com/NileshBarandwal/MTP_Backend) | MNIST CNN served via FastAPI with MLflow experiment logging and YAML config | Python, FastAPI, MLflow |
 
 ---
 
-## Contact
+## 🐍 Contribution snake
 
-Open to internship and full-time roles in Blockchain Engineering, ML Engineering, Backend/Full-Stack, and Security Engineering.
+<div align="center">
+
+![snake gif](https://github.com/NileshBarandwal/NileshBarandwal/blob/output/github-contribution-grid-snake.gif)
+
+</div>
+
+---
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilesh-barandwal-8403ab182/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NileshBarandwal)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NileshBarandwal&color=blue&style=flat&label=Profile+Views)
+
+*Open to internship and full-time roles in Blockchain Engineering, ML Engineering, Backend/Full-Stack, and Security Engineering.*
+
+</div>
