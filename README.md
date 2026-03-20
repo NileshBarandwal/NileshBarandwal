@@ -1,18 +1,7 @@
 # Nilesh Barandwal
 
-Graduate student at IIT Dharwad. I build things across the full stack — currently focused on distributed systems, DeFi protocols, and ML inference pipelines.
+M.Tech CSE student at IIT Dharwad. I build things across the full stack — currently focused on distributed systems, DeFi protocols, and ML inference pipelines.
 
----
-
-## Active Research
-
-**Thesis: Secure and Verifiable ML Inference**
-
-Working on end-to-end pipelines that guarantee privacy and tamper-resistance for ML model execution. Core areas: TEE (Trusted Execution Environment) for isolated inference, ZKP (Zero-Knowledge Proofs) for output verification, and post-quantum cryptographic defenses against adversarial attacks.
-
-*Not yet open-sourced. Available to discuss in interviews.*
-
----
 
 ## Shipped projects
 
@@ -46,4 +35,4 @@ Databases      SQLite · MySQL · PostgreSQL · TypeORM
 
 Open to internship and full-time roles in backend engineering, DeFi/smart contracts, or ML infrastructure.
 
-[GitHub](https://github.com/NileshBarandwal) · [LinkedIn](https://linkedin.com/in/nileshbarandwal)
+[GitHub](https://github.com/NileshBarandwal) · [LinkedIn](https://www.linkedin.com/in/nilesh-barandwal-8403ab182/)
