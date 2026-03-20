@@ -11,8 +11,6 @@ Blockchain · ML Systems · Security · Full-Stack
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header" width="100%"/>
-
 ## ⚡ Tech stack
 
 **Languages**
@@ -70,16 +68,6 @@ Blockchain · ML Systems · Security · Full-Stack
 | [Solidity-BookMyHotel](https://github.com/NileshBarandwal/Solidity_BookMyHotel) | Hotel booking smart contract on Ethereum — deployed via Remix, integrated with MetaMask + Ganache | Solidity, Web3.js, HTML/CSS |
 | [Blockchain_Pow](https://github.com/NileshBarandwal/Blockchain_Pow) | Multi-node proof-of-work blockchain — nodes discover each other, mine concurrently, converge on longest chain | Python, Flask |
 | [Malware_Detection_Webapp](https://github.com/NileshBarandwal/Malware_Detection_Webapp) | Traces HTTP redirect chains hop by hop, scores for cross-domain hops, tracking cookies, suspicious headers | Angular, Node.js, TypeScript |
-
----
-
-## 🐍 Contribution snake
-
-<div align="center">
-
-![snake gif](https://github.com/NileshBarandwal/NileshBarandwal/blob/output/github-contribution-grid-snake.gif)
-
-</div>
 
 ---
 
